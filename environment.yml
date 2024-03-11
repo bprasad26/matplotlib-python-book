@@ -1,0 +1,7 @@
+name: mbookv1
+channels:
+  - defaults
+dependencies:
+  - python=3.11.5  
+  - pip:
+    - -r file:requirements.txt
