@@ -1,0 +1,451 @@
+Entity,Year,Spend Time With,Hours Per Day
+15-29 years,2010,Alone,4.132777
+15-29 years,2011,Alone,4.0332427
+15-29 years,2012,Alone,4.0224776
+15-29 years,2013,Alone,4.1029882
+15-29 years,2014,Alone,4.046974
+15-29 years,2015,Alone,4.298969
+15-29 years,2016,Alone,4.431304
+15-29 years,2017,Alone,4.3739066
+15-29 years,2018,Alone,4.70032
+15-29 years,2019,Alone,4.89351
+15-29 years,2020,Alone,5.925999
+15-29 years,2021,Alone,6.0647006
+15-29 years,2022,Alone,5.6373396
+15-29 years,2023,Alone,6.0064645
+15-29 years,2024,Alone,5.5797834
+30-44 years,2010,Alone,4.683399
+30-44 years,2011,Alone,4.730239
+30-44 years,2012,Alone,4.5495815
+30-44 years,2013,Alone,4.43752
+30-44 years,2014,Alone,4.5632777
+30-44 years,2015,Alone,4.410767
+30-44 years,2016,Alone,4.648273
+30-44 years,2017,Alone,4.6026173
+30-44 years,2018,Alone,4.9020452
+30-44 years,2019,Alone,4.9311304
+30-44 years,2020,Alone,5.4172125
+30-44 years,2021,Alone,5.787283
+30-44 years,2022,Alone,5.735654
+30-44 years,2023,Alone,5.6364074
+30-44 years,2024,Alone,5.980556
+45-59 years,2010,Alone,6.327368
+45-59 years,2011,Alone,6.2649193
+45-59 years,2012,Alone,6.082101
+45-59 years,2013,Alone,6.064119
+45-59 years,2014,Alone,5.9829497
+45-59 years,2015,Alone,6.227694
+45-59 years,2016,Alone,6.1885242
+45-59 years,2017,Alone,6.262345
+45-59 years,2018,Alone,6.268433
+45-59 years,2019,Alone,6.4170847
+45-59 years,2020,Alone,7.244192
+45-59 years,2021,Alone,7.1820254
+45-59 years,2022,Alone,6.8016853
+45-59 years,2023,Alone,7.018267
+45-59 years,2024,Alone,6.9062867
+60+ years,2010,Alone,7.4713407
+60+ years,2011,Alone,7.363825
+60+ years,2012,Alone,7.447498
+60+ years,2013,Alone,7.4483175
+60+ years,2014,Alone,7.5397143
+60+ years,2015,Alone,7.5900645
+60+ years,2016,Alone,7.5436454
+60+ years,2017,Alone,7.555466
+60+ years,2018,Alone,7.4391994
+60+ years,2019,Alone,7.6917925
+60+ years,2020,Alone,8.252295
+60+ years,2021,Alone,7.984558
+60+ years,2022,Alone,7.850157
+60+ years,2023,Alone,8.025875
+60+ years,2024,Alone,7.9173737
+All ages,2010,Alone,5.609146
+All ages,2011,Alone,5.5656447
+All ages,2012,Alone,5.510834
+All ages,2013,Alone,5.511168
+All ages,2014,Alone,5.542947
+All ages,2015,Alone,5.657299
+All ages,2016,Alone,5.735887
+All ages,2017,Alone,5.7437587
+All ages,2018,Alone,5.875123
+All ages,2019,Alone,6.042813
+All ages,2020,Alone,6.7727385
+All ages,2021,Alone,6.809237
+All ages,2022,Alone,6.568607
+All ages,2023,Alone,6.731239
+All ages,2024,Alone,6.6636996
+15-29 years,2010,With friends,2.0351193
+15-29 years,2011,With friends,1.9147773
+15-29 years,2012,With friends,1.8925319
+15-29 years,2013,With friends,1.9053806
+15-29 years,2014,With friends,1.6265641
+15-29 years,2015,With friends,1.6456987
+15-29 years,2016,With friends,1.4992849
+15-29 years,2017,With friends,1.4086559
+15-29 years,2018,With friends,1.5043454
+15-29 years,2019,With friends,1.1254858
+15-29 years,2020,With friends,0.90172595
+15-29 years,2021,With friends,0.8538857
+15-29 years,2022,With friends,0.8664986
+15-29 years,2023,With friends,0.94177574
+15-29 years,2024,With friends,0.86129016
+30-44 years,2010,With friends,0.78998685
+30-44 years,2011,With friends,0.75999725
+30-44 years,2012,With friends,0.7688686
+30-44 years,2013,With friends,0.7476794
+30-44 years,2014,With friends,0.8328261
+30-44 years,2015,With friends,0.7146464
+30-44 years,2016,With friends,0.75455344
+30-44 years,2017,With friends,0.70223033
+30-44 years,2018,With friends,0.580088
+30-44 years,2019,With friends,0.5046407
+30-44 years,2020,With friends,0.28384173
+30-44 years,2021,With friends,0.3129563
+30-44 years,2022,With friends,0.4024971
+30-44 years,2023,With friends,0.39098948
+30-44 years,2024,With friends,0.45060498
+45-59 years,2010,With friends,0.6004368
+45-59 years,2011,With friends,0.63665956
+45-59 years,2012,With friends,0.60304266
+45-59 years,2013,With friends,0.6453121
+45-59 years,2014,With friends,0.607236
+45-59 years,2015,With friends,0.5962367
+45-59 years,2016,With friends,0.555936
+45-59 years,2017,With friends,0.50434566
+45-59 years,2018,With friends,0.4827292
+45-59 years,2019,With friends,0.4446312
+45-59 years,2020,With friends,0.25422984
+45-59 years,2021,With friends,0.271316
+45-59 years,2022,With friends,0.37207186
+45-59 years,2023,With friends,0.32798973
+45-59 years,2024,With friends,0.39830709
+60+ years,2010,With friends,0.6418866
+60+ years,2011,With friends,0.68966985
+60+ years,2012,With friends,0.7096937
+60+ years,2013,With friends,0.75386703
+60+ years,2014,With friends,0.6323011
+60+ years,2015,With friends,0.61426634
+60+ years,2016,With friends,0.6803551
+60+ years,2017,With friends,0.5797132
+60+ years,2018,With friends,0.55265236
+60+ years,2019,With friends,0.5160444
+60+ years,2020,With friends,0.2826573
+60+ years,2021,With friends,0.34717843
+60+ years,2022,With friends,0.32993236
+60+ years,2023,With friends,0.310997
+60+ years,2024,With friends,0.34532666
+All ages,2010,With friends,1.031222
+All ages,2011,With friends,1.0115973
+All ages,2012,With friends,1.0001165
+All ages,2013,With friends,1.0187634
+All ages,2014,With friends,0.9266738
+All ages,2015,With friends,0.894603
+All ages,2016,With friends,0.8731646
+All ages,2017,With friends,0.797747
+All ages,2018,With friends,0.77875966
+All ages,2019,With friends,0.6465908
+All ages,2020,With friends,0.42664114
+All ages,2021,With friends,0.4428341
+All ages,2022,With friends,0.48474663
+All ages,2023,With friends,0.48615584
+All ages,2024,With friends,0.5052542
+15-29 years,2010,With children,1.6705331
+15-29 years,2011,With children,1.6041119
+15-29 years,2012,With children,1.626476
+15-29 years,2013,With children,1.6135085
+15-29 years,2014,With children,1.6147252
+15-29 years,2015,With children,1.3217196
+15-29 years,2016,With children,1.3343155
+15-29 years,2017,With children,1.4030901
+15-29 years,2018,With children,1.3091955
+15-29 years,2019,With children,0.9685977
+15-29 years,2020,With children,0.9617894
+15-29 years,2021,With children,1.0714899
+15-29 years,2022,With children,0.8897219
+15-29 years,2023,With children,0.78341943
+15-29 years,2024,With children,0.8873603
+30-44 years,2010,With children,4.0412006
+30-44 years,2011,With children,4.0967336
+30-44 years,2012,With children,3.9684963
+30-44 years,2013,With children,4.0332522
+30-44 years,2014,With children,3.8939638
+30-44 years,2015,With children,4.0241537
+30-44 years,2016,With children,4.0726075
+30-44 years,2017,With children,3.8664634
+30-44 years,2018,With children,3.829639
+30-44 years,2019,With children,3.7954745
+30-44 years,2020,With children,4.210042
+30-44 years,2021,With children,3.7869792
+30-44 years,2022,With children,3.7292712
+30-44 years,2023,With children,3.6184633
+30-44 years,2024,With children,3.4718094
+45-59 years,2010,With children,2.0228179
+45-59 years,2011,With children,2.0116696
+45-59 years,2012,With children,1.9846411
+45-59 years,2013,With children,2.0925105
+45-59 years,2014,With children,1.882265
+45-59 years,2015,With children,1.872124
+45-59 years,2016,With children,1.9966385
+45-59 years,2017,With children,1.8594197
+45-59 years,2018,With children,2.0589733
+45-59 years,2019,With children,1.7947857
+45-59 years,2020,With children,1.9152389
+45-59 years,2021,With children,2.066764
+45-59 years,2022,With children,1.990975
+45-59 years,2023,With children,1.9323224
+45-59 years,2024,With children,1.9403864
+60+ years,2010,With children,0.9163951
+60+ years,2011,With children,0.97948873
+60+ years,2012,With children,0.94869727
+60+ years,2013,With children,1.0264251
+60+ years,2014,With children,0.92553204
+60+ years,2015,With children,0.8681954
+60+ years,2016,With children,0.873189
+60+ years,2017,With children,0.83878905
+60+ years,2018,With children,0.95272154
+60+ years,2019,With children,0.9212737
+60+ years,2020,With children,0.76427805
+60+ years,2021,With children,0.82669765
+60+ years,2022,With children,0.8292411
+60+ years,2023,With children,0.71249884
+60+ years,2024,With children,0.7850846
+All ages,2010,With children,2.17771
+All ages,2011,With children,2.1753676
+All ages,2012,With children,2.1237931
+All ages,2013,With children,2.1759892
+All ages,2014,With children,2.055057
+All ages,2015,With children,1.9873317
+All ages,2016,With children,2.027667
+All ages,2017,With children,1.9461075
+All ages,2018,With children,1.9902617
+All ages,2019,With children,1.8252896
+All ages,2020,With children,1.9069917
+All ages,2021,With children,1.8860638
+All ages,2022,With children,1.8175762
+All ages,2023,With children,1.7117538
+All ages,2024,With children,1.7251053
+15-29 years,2010,With family,2.6572564
+15-29 years,2011,With family,2.5672982
+15-29 years,2012,With family,2.7103865
+15-29 years,2013,With family,2.68341
+15-29 years,2014,With family,2.627995
+15-29 years,2015,With family,2.4276795
+15-29 years,2016,With family,2.3231993
+15-29 years,2017,With family,2.586274
+15-29 years,2018,With family,2.5463398
+15-29 years,2019,With family,2.513345
+15-29 years,2020,With family,2.319745
+15-29 years,2021,With family,2.2846107
+15-29 years,2022,With family,2.4112794
+15-29 years,2023,With family,2.0495121
+15-29 years,2024,With family,2.3430133
+30-44 years,2010,With family,1.0649697
+30-44 years,2011,With family,1.0291469
+30-44 years,2012,With family,0.98668057
+30-44 years,2013,With family,1.0664175
+30-44 years,2014,With family,0.997225
+30-44 years,2015,With family,1.0541881
+30-44 years,2016,With family,0.8995822
+30-44 years,2017,With family,0.9556761
+30-44 years,2018,With family,0.955381
+30-44 years,2019,With family,0.9260675
+30-44 years,2020,With family,0.9655122
+30-44 years,2021,With family,0.86697876
+30-44 years,2022,With family,0.79605067
+30-44 years,2023,With family,0.77457243
+30-44 years,2024,With family,0.8055354
+45-59 years,2010,With family,1.1396253
+45-59 years,2011,With family,0.99334604
+45-59 years,2012,With family,1.0328478
+45-59 years,2013,With family,1.0951476
+45-59 years,2014,With family,0.9576096
+45-59 years,2015,With family,1.1866549
+45-59 years,2016,With family,0.97943395
+45-59 years,2017,With family,0.9116553
+45-59 years,2018,With family,0.96733975
+45-59 years,2019,With family,0.84206647
+45-59 years,2020,With family,0.83857507
+45-59 years,2021,With family,1.0115063
+45-59 years,2022,With family,0.9065166
+45-59 years,2023,With family,0.8440757
+45-59 years,2024,With family,0.83085394
+60+ years,2010,With family,1.1401435
+60+ years,2011,With family,1.019736
+60+ years,2012,With family,1.1365485
+60+ years,2013,With family,1.0465341
+60+ years,2014,With family,1.0227926
+60+ years,2015,With family,0.97159
+60+ years,2016,With family,0.96645975
+60+ years,2017,With family,0.99155676
+60+ years,2018,With family,1.0232741
+60+ years,2019,With family,0.9920086
+60+ years,2020,With family,0.68134993
+60+ years,2021,With family,0.8113771
+60+ years,2022,With family,0.8540426
+60+ years,2023,With family,0.84958315
+60+ years,2024,With family,0.8630573
+All ages,2010,With family,1.5172881
+All ages,2011,With family,1.4174998
+All ages,2012,With family,1.4774836
+All ages,2013,With family,1.4821416
+All ages,2014,With family,1.408106
+All ages,2015,With family,1.4137561
+All ages,2016,With family,1.295493
+All ages,2017,With family,1.3627557
+All ages,2018,With family,1.3720163
+All ages,2019,With family,1.3156135
+All ages,2020,With family,1.1837363
+All ages,2021,With family,1.2228488
+All ages,2022,With family,1.2217076
+All ages,2023,With family,1.1187809
+All ages,2024,With family,1.1927409
+15-29 years,2010,With partner,1.2486237
+15-29 years,2011,With partner,1.2269737
+15-29 years,2012,With partner,1.1895348
+15-29 years,2013,With partner,1.1664412
+15-29 years,2014,With partner,1.3336252
+15-29 years,2015,With partner,1.3043948
+15-29 years,2016,With partner,1.1039306
+15-29 years,2017,With partner,1.3223222
+15-29 years,2018,With partner,1.2012081
+15-29 years,2019,With partner,1.2546686
+15-29 years,2020,With partner,1.2932037
+15-29 years,2021,With partner,1.1211733
+15-29 years,2022,With partner,1.2780395
+15-29 years,2023,With partner,1.0279547
+15-29 years,2024,With partner,1.1649036
+30-44 years,2010,With partner,3.2787833
+30-44 years,2011,With partner,3.2928963
+30-44 years,2012,With partner,3.3371105
+30-44 years,2013,With partner,3.254695
+30-44 years,2014,With partner,3.2336287
+30-44 years,2015,With partner,3.3558807
+30-44 years,2016,With partner,3.2822235
+30-44 years,2017,With partner,3.2416918
+30-44 years,2018,With partner,3.0401907
+30-44 years,2019,With partner,3.3068027
+30-44 years,2020,With partner,3.575143
+30-44 years,2021,With partner,3.4503224
+30-44 years,2022,With partner,3.5344455
+30-44 years,2023,With partner,3.4150386
+30-44 years,2024,With partner,3.166477
+45-59 years,2010,With partner,3.0970511
+45-59 years,2011,With partner,2.940125
+45-59 years,2012,With partner,3.101861
+45-59 years,2013,With partner,3.3020787
+45-59 years,2014,With partner,3.1349695
+45-59 years,2015,With partner,3.0290656
+45-59 years,2016,With partner,3.1872883
+45-59 years,2017,With partner,3.176634
+45-59 years,2018,With partner,3.1061108
+45-59 years,2019,With partner,3.1464343
+45-59 years,2020,With partner,3.2974524
+45-59 years,2021,With partner,3.0326436
+45-59 years,2022,With partner,3.2025056
+45-59 years,2023,With partner,3.046734
+45-59 years,2024,With partner,3.155832
+60+ years,2010,With partner,4.0476527
+60+ years,2011,With partner,3.9464061
+60+ years,2012,With partner,4.0416794
+60+ years,2013,With partner,3.9894986
+60+ years,2014,With partner,3.848116
+60+ years,2015,With partner,3.957901
+60+ years,2016,With partner,3.8984606
+60+ years,2017,With partner,4.030672
+60+ years,2018,With partner,4.0485616
+60+ years,2019,With partner,3.8740451
+60+ years,2020,With partner,3.8813984
+60+ years,2021,With partner,4.020514
+60+ years,2022,With partner,3.9111407
+60+ years,2023,With partner,3.76716
+60+ years,2024,With partner,3.8188858
+All ages,2010,With partner,2.8769715
+All ages,2011,With partner,2.8167849
+All ages,2012,With partner,2.8943245
+All ages,2013,With partner,2.9140966
+All ages,2014,With partner,2.8803244
+All ages,2015,With partner,2.9095123
+All ages,2016,With partner,2.8714585
+All ages,2017,With partner,2.956686
+All ages,2018,With partner,2.8754926
+All ages,2019,With partner,2.9219592
+All ages,2020,With partner,3.0444975
+All ages,2021,With partner,2.9637394
+All ages,2022,With partner,3.0325823
+All ages,2023,With partner,2.8617322
+All ages,2024,With partner,2.8830419
+15-29 years,2010,With co-workers,2.285987
+15-29 years,2011,With co-workers,2.5030494
+15-29 years,2012,With co-workers,2.3267787
+15-29 years,2013,With co-workers,2.3511143
+15-29 years,2014,With co-workers,2.5208182
+15-29 years,2015,With co-workers,2.4005053
+15-29 years,2016,With co-workers,2.6331491
+15-29 years,2017,With co-workers,2.2172687
+15-29 years,2018,With co-workers,2.3757699
+15-29 years,2019,With co-workers,2.4555964
+15-29 years,2020,With co-workers,1.8537562
+15-29 years,2021,With co-workers,1.9781387
+15-29 years,2022,With co-workers,1.9082913
+15-29 years,2023,With co-workers,2.0846386
+15-29 years,2024,With co-workers,1.9852669
+30-44 years,2010,With co-workers,2.9653897
+30-44 years,2011,With co-workers,3.1130276
+30-44 years,2012,With co-workers,3.2270498
+30-44 years,2013,With co-workers,3.1818233
+30-44 years,2014,With co-workers,3.2697072
+30-44 years,2015,With co-workers,3.0712726
+30-44 years,2016,With co-workers,3.0900176
+30-44 years,2017,With co-workers,3.1114519
+30-44 years,2018,With co-workers,3.201509
+30-44 years,2019,With co-workers,3.1288686
+30-44 years,2020,With co-workers,2.192195
+30-44 years,2021,With co-workers,2.241497
+30-44 years,2022,With co-workers,2.094914
+30-44 years,2023,With co-workers,2.4632094
+30-44 years,2024,With co-workers,2.373646
+45-59 years,2010,With co-workers,2.7405376
+45-59 years,2011,With co-workers,2.8654015
+45-59 years,2012,With co-workers,2.9124334
+45-59 years,2013,With co-workers,2.6096246
+45-59 years,2014,With co-workers,2.9710298
+45-59 years,2015,With co-workers,2.7882385
+45-59 years,2016,With co-workers,2.7738702
+45-59 years,2017,With co-workers,2.8167696
+45-59 years,2018,With co-workers,2.7904484
+45-59 years,2019,With co-workers,2.6915853
+45-59 years,2020,With co-workers,2.03773
+45-59 years,2021,With co-workers,1.8869299
+45-59 years,2022,With co-workers,2.055395
+45-59 years,2023,With co-workers,2.1774652
+45-59 years,2024,With co-workers,2.182765
+60+ years,2010,With co-workers,0.7205548
+60+ years,2011,With co-workers,0.79765695
+60+ years,2012,With co-workers,0.76579803
+60+ years,2013,With co-workers,0.8027573
+60+ years,2014,With co-workers,0.8480901
+60+ years,2015,With co-workers,0.83401453
+60+ years,2016,With co-workers,0.76068854
+60+ years,2017,With co-workers,0.75248796
+60+ years,2018,With co-workers,0.67838967
+60+ years,2019,With co-workers,0.76700157
+60+ years,2020,With co-workers,0.60702115
+60+ years,2021,With co-workers,0.6404416
+60+ years,2022,With co-workers,0.6872028
+60+ years,2023,With co-workers,0.6633557
+60+ years,2024,With co-workers,0.64773494
+All ages,2010,With co-workers,2.2158895
+All ages,2011,With co-workers,2.3479059
+All ages,2012,With co-workers,2.3207886
+All ages,2013,With co-workers,2.2368152
+All ages,2014,With co-workers,2.393445
+All ages,2015,With co-workers,2.25487
+All ages,2016,With co-workers,2.2860107
+All ages,2017,With co-workers,2.1829927
+All ages,2018,With co-workers,2.2064943
+All ages,2019,With co-workers,2.2005756
+All ages,2020,With co-workers,1.6216297
+All ages,2021,With co-workers,1.6327276
+All ages,2022,With co-workers,1.6324522
+All ages,2023,With co-workers,1.7822329
+All ages,2024,With co-workers,1.7275949
