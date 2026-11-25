@@ -8,13 +8,15 @@ Use these resources to follow the examples, experiment with the code, and practi
 
 ## Repository Structure
 
+```text
 matplotlib-python-book/
 ├── data/                 # Datasets used in the book
 ├── images/               # Images used in the notebooks
 ├── notebooks/            # Chapter-wise Jupyter notebooks
 ├── environment.yml       # Conda environment configuration
 ├── requirements.txt      # Main Python libraries and versions
-└── README
+└── README.md
+```
 
 ## Getting Started
 
